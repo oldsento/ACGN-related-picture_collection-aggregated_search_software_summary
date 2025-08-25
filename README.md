@@ -1,2 +1,13 @@
-# ACGN-related-picture_collection-aggregated_search_software_summary
-2次元ACGN相关图集聚合搜索软件汇总
+# MoeLoader-P，https://github.com/xplusky/MoeLoaderP ，PC端，国内外主流二次元图片网站浏览下载，目前最新版本是2年前的可能作者已经弃坑，Pixiv.net,Bilibili.com,Konachan.com,Yande.re , behoimi.org, safebooru, danbooru,Gelbooru,SankakuComplex,Kawainyan,MiniTokyo,e-shuushuu,Zerochan,WorldCosplay ,突然诈尸3个月前更新10.0.3最新，
+
+https://github.com/usaginya/MoeLoader-Delta 5年前的，坑❌
+
+https://github.com/Chihiro23333/MoeLoaderFlutter ，安卓和PC端，yande.re，konachan.com，danbooru.donmai.us，safebooru.org，Gelbooru.com，Sankaku (？)，zerochan，Pixiv，e-shuushuu.net，minitokyo ，Konchan_CHS，anime-pictures，上面的同类，2.0.1大小9.19m，内置源，不能左右切换只能返回❗️一堆图站但没几个正常/要挂v，anime_picture，konchan_chs有色图，但只能搜索❗️搜索结果都是一样的❗️就这2个能看❗️挂v很不稳定，某些站点点进去没显示首页那就没用要重来❗️yande_pool是图集/漫画，搜索有空格最好用空格号❗️最新301大小9m，
+
+https://github.com/NO-ob/LoliSnatcher_Droid ，安卓端，同上，Danbooru，Gelbooru，GelbooruV1 (Booru.org)，Moebooru，Philomena，Shimmie，e621，Szurubooru，Hydrus Network，Sankaku (Default and Idol)，rule34.xyz / rule34.world，rule34hentai，Booru On Rails (Twibooru)，InkBunny，大小60m，
+
+https://github.com/Yochyo/Yummybooru ，安卓端，Danbooru/Moebooru，主流国外图站，2.4.14大小8.71m，要挂v或挂了，就3个主流图站❗️废了❗️2.4.16大小8.87m，
+
+https://github.com/Kisspeace/NsfwBox ，一些色图站点浏览器，安卓和PC端，nsfw.xxx, pornpic.xxx, hdporn.pics，Rule34 Json API，givemeporn.club，kemono.party, coomer.party，9hentai.to，motherless.com，fapello.com，rule34.xxx，gelbooru.com，realbooru.com，rule34.us，rule34.paheal.net，xbooru.com，tbib.org，danbooru.donmai.us，hypnohub.net，booru.allthefallen.moe，bleachbooru.org，hgoon.booru.org，illusioncards.booru.org，db.bepis.moe，e621.net，23/7/3可能作者弃坑了❗️3.2.0大小13.43m，软件废了/要挂v❗️可以聚合搜索，图加载慢得要死，各种乱七八糟的都有🤑//现在挂了/rule34的都挂了❌
+
+kanimeG/k动漫壁纸，https://github.com/EternalSoySauce/Konachan ，安卓，Konachan，Yande.re，Danbooru，Safebooru，Gelbooru，Lolibooru，Sankaku，Zerochan，Wallhalla，Wallhaven，后续即将支持网站源：3dbooru，E-shuushuu，Xbooru，The anime gallery，目前github没下载了，v1.9.3大小17.88m，主流国内外二次元在线图片站点浏览器，要挂v❗️搜索有空格自动替换，支持中文搜索，可以左右切换，图都是PC尺寸的❗️加载图片很慢/VPN问题？目前4个前更新到193，
