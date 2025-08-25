@@ -22,13 +22,13 @@ https://github.com/nullxception/boorusphere 安卓，Danbooru/Gelbooru/Konachan/
 
 https://github.com/uragiristereo/Mejiboard 安卓，Gelbooru/Danbooru/Safebooru.org，3年前的，貌似被弃坑❌
 
-https://github.com/flexbooru/flexbooru，1年前被弃坑，Danbooru, Moebooru, Gelbooru, Shimmie❌
+https://github.com/flexbooru/flexbooru 1年前被弃坑，Danbooru, Moebooru, Gelbooru, Shimmie❌
 
-https://github.com/ImoutoChan/ImoutoBooruParser没打包❌
+https://github.com/ImoutoChan/ImoutoBooruParser 没打包❌
 
 https://github.com/sinkaroid/jigoku 目前没打包❌
 
-https://github.com/khoadng/Boorusama，没打包❌
+https://github.com/khoadng/Boorusama 没打包❌
 
 https://github.com/Garneg/BooruBrowser  Gelbooru (Currently WIP)， Danbooru， E621， E926，已被弃坑❌
 
