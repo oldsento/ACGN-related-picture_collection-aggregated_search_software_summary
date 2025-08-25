@@ -1,4 +1,4 @@
-# MoeLoader-P，https://github.com/xplusky/MoeLoaderP ，PC端，国内外主流二次元图片网站浏览下载，目前最新版本是2年前的可能作者已经弃坑，Pixiv.net,Bilibili.com,Konachan.com,Yande.re , behoimi.org, safebooru, danbooru,Gelbooru,SankakuComplex,Kawainyan,MiniTokyo,e-shuushuu,Zerochan,WorldCosplay ,突然诈尸3个月前更新10.0.3最新，
+MoeLoader-P，https://github.com/xplusky/MoeLoaderP ，PC端，国内外主流二次元图片网站浏览下载，目前最新版本是2年前的可能作者已经弃坑，Pixiv.net,Bilibili.com,Konachan.com,Yande.re , behoimi.org, safebooru, danbooru,Gelbooru,SankakuComplex,Kawainyan,MiniTokyo,e-shuushuu,Zerochan,WorldCosplay ,突然诈尸3个月前更新10.0.3最新，
 
 https://github.com/usaginya/MoeLoader-Delta 5年前的，坑❌
 
