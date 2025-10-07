@@ -1,3 +1,4 @@
+[img]https://hitscounter.dev/api/hit?url=https://github.com/oldsento/ACGN-related-picture_collection-aggregated_search_software_summary&label=&icon=eye&color=%2380cbc4&message=&style=flat&tz=UTC[/img]
 安卓在线搜图软件汇总
 https://github.com/Bionus/imgbrd-grabber 多平台，Danbooru，Gelbooru，E-Hentai，Pixiv，yande.re，Shimmie，e621，Konachan，rule34，safebooru，Anime-Pictures，behoimi，Zerochan，Twitter，
 
